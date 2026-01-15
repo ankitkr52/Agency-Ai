@@ -29,7 +29,8 @@ import google_logo from './google_logo.svg'
 import menu_icon_dark from './menu_icon_dark.svg'
 import sun_icon from './sun_icon.svg'
 import moon_icon from './moon_icon.svg'
-
+import hero2 from './hero2.jpg'
+import hero1 from './hero.jpg'
 
 export const company_logos = [
   microsoft_logo,
@@ -47,6 +48,8 @@ const assets = {
   bgImage1,
   bgImage2,
   hero_img,
+  hero2,
+  hero1,
   ads_icon,
   content_icon,
   marketing_icon,
